@@ -1,0 +1,22 @@
+{
+  "name": "stmr.c",
+  "version": "1.2020.6",
+  "description": "Porter Stemmer algorithm in C; Titus (2014).",
+  "keywords": [
+    "c",
+    "library",
+    "porter",
+    "stemmer",
+    "nlp"
+  ],
+  "homepage": "https://github.com/nodef/stmr.c#readme",
+  "bugs": {
+    "url": "https://github.com/nodef/stmr.c/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/stmr.c.git"
+  },
+  "license": "MIT",
+  "main": "stmr.h"
+}
